@@ -1,0 +1,11 @@
+{
+  "name": "mdr7",
+  "description": "تطبيق mdr7 لالتقاط الصور وتسجيل الفيديو وحفظها بتسلسل وتاريخ مخصص مع ميزات المشاركة والتصدير وعرض مجلد mdr-p.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
